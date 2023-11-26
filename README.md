@@ -13,22 +13,22 @@ pip install mediapipe
 pip install pyautogui
 pip install opencv-python
 ```
-##Library Descriptions
+## Library Descriptions
 <ul>
 <li>opencv: Used to capture video frames, essential for real-time hand tracking.</li>
 <li>mediapipe: Enables the extraction of hand landmarks, crucial for determining hand gestures.</li>
 <li>pyautogui: Facilitates mouse control and click operations.</li>
-<ul>
-##How to Use
+</ul>ul>
+## How to Use
 <ol>
 <li>Make sure you have a webcam connected to your computer.</li>
 <li>Run the script.</li>
 <li>Position your hand in front of the webcam, and the program will detect it.</li>
 <li>Move your hand to control the mouse pointer.</li>
 <li>To perform a click operation, lower your middle finger until it almost resembles the height of the pointer finger.</li>
-<ol>
+</ol>ol>
 
-##Additional Notes
+## Additional Notes
 <ol>
 <li>Experiment with different hand gestures to explore additional mouse control functionalities.</li>
 <li>Ensure proper lighting and hand visibility for optimal performance.</li>
