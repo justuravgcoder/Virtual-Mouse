@@ -19,6 +19,7 @@ pip install opencv-python
 <li>mediapipe: Enables the extraction of hand landmarks, crucial for determining hand gestures.</li>
 <li>pyautogui: Facilitates mouse control and click operations.</li>
 </ul>
+
 ## How to Use
 <ol>
 <li>Make sure you have a webcam connected to your computer.</li>
@@ -34,6 +35,7 @@ pip install opencv-python
 <li>Ensure proper lighting and hand visibility for optimal performance.</li>
 <li>Have fun and get creative with how you interact with your computer!</li>
 </ol>
+
 ## Acknowledgments
 This project uses the following open-source libraries: mediapipe, pyautogui, opencv.
 Feel free to contribute, report issues, or suggest improvements!
